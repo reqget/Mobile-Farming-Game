@@ -23,6 +23,14 @@ The player can interact with the environment, grow crops, and manage farming act
 
 ---
 
+## Screenshots
+
+![Gameplay](Assets/market.png)
+![Farming](Assets/Inventory.png)
+![Tree](Assets/Tree.png)
+
+---
+
 ## Gameplay
 
 The player can plant seeds, water crops, and harvest them when they are ready.
