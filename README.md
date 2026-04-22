@@ -25,7 +25,7 @@ The player can interact with the environment, grow crops, and manage farming act
 
 ## Screenshots
 
-![Gameplay](Assets/market.png)
+![Gameplay](Assets/Market.png)
 ![Farming](Assets/Inventory.png)
 ![Tree](Assets/Tree.png)
 
